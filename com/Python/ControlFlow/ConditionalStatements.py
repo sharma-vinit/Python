@@ -62,7 +62,6 @@ menu[x]()   # Calls the bye function as is the second element on the array x = 1
 
 # This works because Python stores a reference of the function in the array at its particular index, and by adding a pair of parentheses we are actually calling the function. 
 # Here the last line is equivalent to:
-Another way. Using function through user Input
 
 go = "y"
 x = 0
